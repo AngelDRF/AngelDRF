@@ -87,6 +87,12 @@
 
 ###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+###
+
 ## 📊 GitHub Stats:
 <div align="center">
 
@@ -97,6 +103,7 @@
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AngelDRF&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+
 
 
 
