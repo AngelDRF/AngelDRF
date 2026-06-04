@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer, currently leaving in New York</p>
+<p align="left">I'm a Software Engineer, currently living in New York</p>
 
 ###
 
