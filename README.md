@@ -54,29 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/AngelDRF/AngelDRF/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelDRF/AngelDRF/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelDRF/AngelDRF/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AngelDRF/AngelDRF/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxzd3BzM3psd2Z5OGcyZGoyZzNwem1taTh2b2MyaWZjNHhzZGljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AngelDRF/AngelDRF/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AngelDRF/AngelDRF/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
