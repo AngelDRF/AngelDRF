@@ -52,6 +52,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -74,5 +84,23 @@
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxzd3BzM3psd2Z5OGcyZGoyZzNwem1taTh2b2MyaWZjNHhzZGljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
+
+###
+
+## 📊 GitHub Stats:
+<div align="center">
+
+  ![](https://github-readme-stats.shion.dev/api?username=AngelDRF&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+  ![](https://streak-stats.demolab.com/?user=AngelDRF&theme=default_repocard&hide_border=false)<br/>
+
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AngelDRF&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+
+
+
+
 
 
