@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advance frontend development<br>🎲 Fun fact: I love to listen to music and watch tv series or movies</p>
+<p align="left">✨ Coding since 2018<br>🎓 Graduated with a BS in Computer Science from Lehman College in 2024<br>📚 I'm currently learning advance Frontend Development, such as, creating fully functional and user friendly web apps with react<br>🎲 Fun fact: I love to listen to music and watch tv series or movies</p>
 
 ###
 
