@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/angel-david-ramirez-flores-297595198/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/AngelDRF/AngelDRF/blob/main/Resume_Angel_David_Ramirez_Flores.pdf">
+  <a href="https://github.com/AngelDRF/AngelDRF/blob/main/AngelResume.pdf">
     <img src="https://img.shields.io/badge/Curriculum-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
